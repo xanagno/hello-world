@@ -1,2 +1,5 @@
 # hello-world
-My repo test
+
+This is me!
+
+Learning about coding in this day and age!
